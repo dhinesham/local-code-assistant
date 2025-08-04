@@ -19,8 +19,8 @@ A lightweight, real-time **coding assistant chatbot** built with [CodeGemma](htt
 ## 📂 Project Structure
 
 ```bash
-├── app.py             # Main Gradio app
-├── README.md          # Project documentation
+├── app.py             
+├── requirements.txt   
 ```
 
 ---
