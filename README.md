@@ -55,8 +55,8 @@ A lightweight, real-time **coding assistant chatbot** built with [CodeGemma](htt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/codegemma-chatbot.git
-cd codegemma-chatbot
+git clone https://github.com/dhinesham/local-code-assistant.git
+cd local-code-assistant
 ```
 
 ### 2. Install Dependencies
